@@ -1,0 +1,14 @@
+C:\Users\Huber Noreña\source\repos\mutantDetector\bin\Debug\netcoreapp3.1\mutantDetector.exe
+C:\Users\Huber Noreña\source\repos\mutantDetector\bin\Debug\netcoreapp3.1\mutantDetector.deps.json
+C:\Users\Huber Noreña\source\repos\mutantDetector\bin\Debug\netcoreapp3.1\mutantDetector.runtimeconfig.json
+C:\Users\Huber Noreña\source\repos\mutantDetector\bin\Debug\netcoreapp3.1\mutantDetector.runtimeconfig.dev.json
+C:\Users\Huber Noreña\source\repos\mutantDetector\bin\Debug\netcoreapp3.1\mutantDetector.dll
+C:\Users\Huber Noreña\source\repos\mutantDetector\bin\Debug\netcoreapp3.1\mutantDetector.pdb
+C:\Users\Huber Noreña\source\repos\mutantDetector\obj\Debug\netcoreapp3.1\mutantDetector.csproj.AssemblyReference.cache
+C:\Users\Huber Noreña\source\repos\mutantDetector\obj\Debug\netcoreapp3.1\mutantDetector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huber Noreña\source\repos\mutantDetector\obj\Debug\netcoreapp3.1\mutantDetector.AssemblyInfoInputs.cache
+C:\Users\Huber Noreña\source\repos\mutantDetector\obj\Debug\netcoreapp3.1\mutantDetector.AssemblyInfo.cs
+C:\Users\Huber Noreña\source\repos\mutantDetector\obj\Debug\netcoreapp3.1\mutantDetector.csproj.CoreCompileInputs.cache
+C:\Users\Huber Noreña\source\repos\mutantDetector\obj\Debug\netcoreapp3.1\mutantDetector.dll
+C:\Users\Huber Noreña\source\repos\mutantDetector\obj\Debug\netcoreapp3.1\mutantDetector.pdb
+C:\Users\Huber Noreña\source\repos\mutantDetector\obj\Debug\netcoreapp3.1\mutantDetector.genruntimeconfig.cache
